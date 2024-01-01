@@ -9,7 +9,7 @@ Copy of stock market tracking-Analysed a stock dataset using excel.
 STOCK_Report-A visulazation on the above data set on looker studio.
 
 
-WebScrapping-A basic web scrapping oftimes job website.
+WebScrapping-A basic web scrapping of 'times job' website.
 
 
 correlation_in_python-finding correlation between differnet things(that determine its success) in a movie dataset.
